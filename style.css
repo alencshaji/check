@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+    color: aliceblue;
+}
+.main{
+    display: flex;
+    justify-content: center;
+}
+.content{
+    display: flex;
+    justify-content: center;
+}
+.content_2{
+    display: flex;
+    justify-content: center;
+}
+button{
+    padding: 1rem;
+    margin: 1rem;
+}
+input{
+    padding: 1rem;
+}
